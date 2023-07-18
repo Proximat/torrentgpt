@@ -1,12 +1,10 @@
 <p align="center">
-    <img src="https://i.imgur.com/7eR7Pan.png" width="400"><br>
+    <img src="https://imgur.com/svSIqDM.png" width="400"><br>
 
     For now this repo is a complete copy and full-supporter of Petals
     Run large language models at home, BitTorrent-style.<br>
-    Fine-tuning and inference <a href="https://github.com/bigscience-workshop/petals#benchmarks">up to 10x faster</a> than offloading<br><br>
-    <a href="https://pypi.org/project/petals/"><img src="https://img.shields.io/pypi/v/petals.svg?color=green"></a><br>
-</p>
 
+  
 Generate text with distributed [LLaMA-65B](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md), [Guanaco](https://huggingface.co/timdettmers/guanaco-65b), [BLOOM-176B](https://huggingface.co/bigscience/bloom), or [BLOOMZ](https://huggingface.co/bigscience/bloomz) and fine-tune them for your own tasks &mdash; right from your desktop computer or Google Colab:
 
 ```python

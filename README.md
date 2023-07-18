@@ -1,5 +1,8 @@
 <p align="center">
     <img src="https://i.imgur.com/7eR7Pan.png" width="400"><br>
+
+    For now, a complete copy and supporter of Petals
+    <img src="https://i.imgur.com/7eR7Pan.png" width="200"><br>
     Run large language models at home, BitTorrent-style.<br>
     Fine-tuning and inference <a href="https://github.com/bigscience-workshop/petals#benchmarks">up to 10x faster</a> than offloading<br><br>
     <a href="https://pypi.org/project/petals/"><img src="https://img.shields.io/pypi/v/petals.svg?color=green"></a><br>

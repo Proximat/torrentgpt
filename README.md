@@ -2,7 +2,7 @@
     <img src="https://imgur.com/svSIqDM.png" width="400"><br>
 
     For now this repo is a complete copy and full-supporter of Petals
-    Run large language models at home, BitTorrent-style.<br>
+    Run large language models at home, BitTorrent-style.
 
   
 Generate text with distributed [LLaMA-65B](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md), [Guanaco](https://huggingface.co/timdettmers/guanaco-65b), [BLOOM-176B](https://huggingface.co/bigscience/bloom), or [BLOOMZ](https://huggingface.co/bigscience/bloomz) and fine-tune them for your own tasks &mdash; right from your desktop computer or Google Colab:
